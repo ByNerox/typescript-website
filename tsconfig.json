@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                 // Ziel: ES6
+    "module": "ES6",                 // Modulformat für Browser
+    "outDir": "./dist",              // Kompilierte Dateien kommen in den dist-Ordner
+    "rootDir": "./src",              // Quellcode liegt im src-Ordner
+    "strict": true                   // Aktiviert strikte Typüberprüfung
+  },
+  "include": ["src/**/*.ts"],         // Enthält alle TypeScript-Dateien im src-Ordner
+  "exclude": ["node_modules"]         // Schließt Abhängigkeiten aus
+}

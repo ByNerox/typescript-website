@@ -1,0 +1,28 @@
+body {
+    background-color: #15202B;
+  }
+  h1 {
+    color: white;
+  }
+  h2 {
+    color: white;
+  }
+  a {
+    color: #8899A6;
+
+  }
+  p {
+    color: white;
+  }
+  label {
+    color: white;
+  }
+  ul {
+    color: white;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+    opacity: 0.6;
+  }

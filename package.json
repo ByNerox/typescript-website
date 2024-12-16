@@ -1,0 +1,15 @@
+{
+  "name": "typescript-website",
+  "version": "1.0.0",
+  "description": "learning to create a website with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
